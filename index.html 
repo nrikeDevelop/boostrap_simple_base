@@ -70,6 +70,35 @@
         </div>
       </div>
   </div> 
+  </row>
+  <br>
+  <row>
+   <div class="row ">
+      <div class="col-xs-12 col-lg-6">
+        <div class="content-size">
+         <div class="container">
+          <i class="fas fa-graduation-cap icon"></i>
+
+          <br>
+          <p>
+            Facil de aprender
+          </p>
+         </div>
+        </div>
+      </div>
+      
+      <div class="col-xs-12 col-lg-6 ">
+        <div class="content-size">
+         <div class="container">    
+        <i class="fas fa-users icon"></i>
+      <br>
+          <p>
+            Enfocado a todos los usuarios 
+          </p>
+         </div>
+        </div>
+      </div>
+  </div> 
   <br>
   <div class="row">
   	 <div class="unic-container">
